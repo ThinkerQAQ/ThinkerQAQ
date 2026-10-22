@@ -62,11 +62,11 @@ Its companion **BlogCTL** handles site assembly, multi-platform publishing, and 
 
 My personal blog at [thinkerqaq.com](https://thinkerqaq.com/en/) runs on Inkerio.
 
-### [DownKit](https://github.com/ThinkerQAQ/downkit)
+### [VidOtter](https://github.com/ThinkerQAQ/vidotter)
 
-A media downloader combining a browser extension with a local Go service.
+An open-source, browser-integrated media downloader built with Go and a Chrome/Edge extension. It detects HLS, DASH, MP4, and separate audio/video tracks and downloads them through a local Go Bridge.
 
-Supports video and audio downloads, media processing, and optional subtitle-related workflows.
+Optional media workflows include FFmpeg processing, subtitle extraction, transcription, and translation. The [releases](https://github.com/ThinkerQAQ/vidotter/releases) provide Windows, Linux, and macOS desktop builds.
 
 ## Writing
 
