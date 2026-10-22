@@ -54,11 +54,13 @@ I believe in a few simple principles:
 
 ## Featured Projects
 
-### [ThinkerQAQ Blog](https://github.com/ThinkerQAQ/ThinkerQAQ.github.io)
+### [Inkerio](https://github.com/ThinkerQAQ/ThinkerQAQ.github.io)
 
-A bilingual technical blog powered by Astro and a Go-based publishing pipeline.
+A bilingual static blog engine built with Astro, with content kept in a separate repository.
 
-Built for long-term knowledge management, technical writing, and automated content distribution.
+Its companion **BlogCTL** handles site assembly, multi-platform publishing, and search-engine submission. Start with the [Inkerio Content Template](https://github.com/ThinkerQAQ/inkerio-content-template) to build your own site.
+
+My personal blog at [thinkerqaq.com](https://thinkerqaq.com/en/) runs on Inkerio.
 
 ### [DownKit](https://github.com/ThinkerQAQ/downkit)
 
