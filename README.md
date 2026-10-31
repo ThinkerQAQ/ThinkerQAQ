@@ -71,6 +71,18 @@ An open-source, browser-integrated media downloader built with Go and a Chrome/E
 
 Optional media workflows include FFmpeg processing, subtitle extraction, transcription, and translation. The [releases](https://github.com/ThinkerQAQ/vidotter/releases) provide Windows, Linux, and macOS desktop builds.
 
+### [Remote Desktop MCP](https://github.com/ThinkerQAQ/remote-desktop-mcp)
+
+An experimental MCP integration for **Desktop Commander**, providing AI assistants with access to local development tools such as files, search, and terminal sessions. Supports local stdio connections and persistent remote access through an OpenAI tunnel, with private configuration and connection checks.
+
+### [Remote Browser MCP](https://github.com/ThinkerQAQ/remote-browser-mcp)
+
+A guarded MCP bridge to an **existing Microsoft Edge session** via Chrome DevTools. Reuses authenticated browser sessions and persistent connections, prioritizes background tabs, and protects pre-existing tabs by default.
+
+### [Wardrobe](https://github.com/ThinkerQAQ/wardrobe)
+
+A **local-first personal wardrobe manager** built with Go, SQLite, a Web UI, and MCP. Organizes clothing, body measurements, hairstyles, and outfits; enables AI-assisted outfit planning and fixed-layout lookbook cards while keeping personal data on the user's machine by default.
+
 ## Writing
 
 I document what I learn and build at **[thinkerqaq.com](https://thinkerqaq.com/en/)**, focusing on backend engineering, concurrency, distributed systems, and software design.
