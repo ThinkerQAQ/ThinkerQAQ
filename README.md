@@ -57,31 +57,18 @@ I believe in a few simple principles:
 
 ## Featured Projects
 
-### [Inkerio](https://github.com/ThinkerQAQ/ThinkerQAQ.github.io)
+Six representative open-source projects, spanning developer tools, AI integrations, and practical applications.
 
-A bilingual static blog engine built with Astro, with content kept in a separate repository.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Inkerio](https://github.com/ThinkerQAQ/ThinkerQAQ.github.io)** | Bilingual static blog engine with a separate content repository; includes [BlogCTL](https://github.com/ThinkerQAQ/ThinkerQAQ.github.io/tree/main/tools/blogctl) for site assembly and multi-platform publishing. | Astro, Go |
+| **[Wardrobe](https://github.com/ThinkerQAQ/wardrobe)** | Local-first wardrobe and AI-assisted outfit manager with private on-device data. | Go, SQLite, MCP |
+| **[VidOtter](https://github.com/ThinkerQAQ/vidotter)** | Browser-integrated, cross-platform media downloader and processing tools. | Go, Browser Extension |
+| **[Remote Browser MCP](https://github.com/ThinkerQAQ/remote-browser-mcp)** | Guarded AI access to existing Edge/Chrome sessions via a persistent MCP bridge. | MCP, CDP |
+| **[Remote Desktop MCP](https://github.com/ThinkerQAQ/remote-desktop-mcp)** | Connects AI assistants with local files, terminal, and development workflows. | MCP, Node.js |
+| **[Lightroom Classic HDR Tools](https://github.com/ThinkerQAQ/lightroom-plugin)** | Local plug-ins for bracketed HDR merging and source-photo review. | Lua, C# |
 
-Its companion **BlogCTL** handles site assembly, multi-platform publishing, and search-engine submission. Start with the [Inkerio Content Template](https://github.com/ThinkerQAQ/inkerio-content-template) to build your own site.
-
-My personal blog at [thinkerqaq.com](https://thinkerqaq.com/en/) runs on Inkerio.
-
-### [VidOtter](https://github.com/ThinkerQAQ/vidotter)
-
-An open-source, browser-integrated media downloader built with Go and a Chrome/Edge extension. It detects HLS, DASH, MP4, and separate audio/video tracks and downloads them through a local Go Bridge.
-
-Optional media workflows include FFmpeg processing, subtitle extraction, transcription, and translation. The [releases](https://github.com/ThinkerQAQ/vidotter/releases) provide Windows, Linux, and macOS desktop builds.
-
-### [Remote Desktop MCP](https://github.com/ThinkerQAQ/remote-desktop-mcp)
-
-An experimental MCP integration for **Desktop Commander**, providing AI assistants with access to local development tools such as files, search, and terminal sessions. Supports local stdio connections and persistent remote access through an OpenAI tunnel, with private configuration and connection checks.
-
-### [Remote Browser MCP](https://github.com/ThinkerQAQ/remote-browser-mcp)
-
-A guarded MCP bridge to an **existing Microsoft Edge session** via Chrome DevTools. Reuses authenticated browser sessions and persistent connections, prioritizes background tabs, and protects pre-existing tabs by default.
-
-### [Wardrobe](https://github.com/ThinkerQAQ/wardrobe)
-
-A **local-first personal wardrobe manager** built with Go, SQLite, a Web UI, and MCP. Organizes clothing, body measurements, hairstyles, and outfits; enables AI-assisted outfit planning and fixed-layout lookbook cards while keeping personal data on the user's machine by default.
+Explore the full [project portfolio](https://thinkerqaq.com/en/projects/), or try the [Inkerio Content Template](https://github.com/ThinkerQAQ/inkerio-content-template) to build your own site.
 
 ## Writing
 
