@@ -61,7 +61,7 @@ Six representative open-source projects, spanning developer tools, AI integratio
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Inkerio](https://github.com/ThinkerQAQ/ThinkerQAQ.github.io)** | Bilingual static blog engine with a separate content repository; includes [BlogCTL](https://github.com/ThinkerQAQ/ThinkerQAQ.github.io/tree/main/tools/blogctl) for site assembly and multi-platform publishing. | Astro, Go |
+| **[Inkerio](https://github.com/ThinkerQAQ/inkerio)** | Reusable bilingual Astro blog engine with separately managed content, configurable taxonomy, RSS and static deployment. [Source release](https://github.com/ThinkerQAQ/inkerio/releases/tag/inkerio-v2.0.0). | Astro, TypeScript |
 | **[Wardrobe](https://github.com/ThinkerQAQ/wardrobe)** | Local-first wardrobe and AI-assisted outfit manager with private on-device data. | Go, SQLite, MCP |
 | **[VidOtter](https://github.com/ThinkerQAQ/vidotter)** | Browser-integrated, cross-platform media downloader and processing tools. | Go, Browser Extension |
 | **[Remote Browser MCP](https://github.com/ThinkerQAQ/remote-browser-mcp)** | Guarded AI access to existing Edge/Chrome sessions via a persistent MCP bridge. | MCP, CDP |
