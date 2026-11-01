@@ -69,7 +69,7 @@ Open-source projects spanning publishing, developer infrastructure, and local-fi
 | **[Remote Browser MCP](https://github.com/ThinkerQAQ/remote-browser-mcp)** | Guarded AI access to existing Edge/Chrome sessions through Chrome DevTools MCP and a persistent bridge. | Node.js, MCP, CDP | |
 | **[Wardrobe](https://github.com/ThinkerQAQ/wardrobe)** | Local-first clothing inventory and AI-assisted outfit planning with a Web UI and browser side panel. | Go, SQLite, MCP | |
 | **[Lightroom Classic HDR Tools](https://github.com/ThinkerQAQ/lightroom-plugin)** | Windows plug-ins for bracketed HDR merging and source-photo review in Lightroom Classic. | Lua, C# | |
-| **[DEV2](https://github.com/ThinkerQAQ/DevTool)** | Configuration-driven development control plane for humans, AI agents, and CI. | Go, MCP | **Archived** |
+| **[DevTool](https://github.com/ThinkerQAQ/DevTool)** | Configuration-driven development control plane for humans, AI agents, and CI. | Go, MCP | **Archived** |
 | **[DevEnvironment](https://github.com/ThinkerQAQ/DevEnvironment)** | Reusable Docker development environments with shared toolchains and code-intelligence tools. | Docker, Go, Node.js | |
 
 ## Writing
