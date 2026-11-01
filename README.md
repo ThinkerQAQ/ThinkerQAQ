@@ -57,18 +57,23 @@ I believe in a few simple principles:
 
 ## Featured Projects
 
-Six representative open-source projects, spanning developer tools, AI integrations, and practical applications.
+Open-source projects spanning publishing, developer infrastructure, and local-first applications, ordered by priority.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Inkerio](https://github.com/ThinkerQAQ/inkerio)** | Reusable bilingual Astro blog engine with separately managed content, configurable taxonomy, RSS and static deployment. [Source release](https://github.com/ThinkerQAQ/inkerio/releases/tag/inkerio-v2.0.0). | Astro, TypeScript |
-| **[Wardrobe](https://github.com/ThinkerQAQ/wardrobe)** | Local-first wardrobe and AI-assisted outfit manager with private on-device data. | Go, SQLite, MCP |
-| **[VidOtter](https://github.com/ThinkerQAQ/vidotter)** | Browser-integrated, cross-platform media downloader and processing tools. | Go, Browser Extension |
-| **[Remote Browser MCP](https://github.com/ThinkerQAQ/remote-browser-mcp)** | Guarded AI access to existing Edge/Chrome sessions via a persistent MCP bridge. | MCP, CDP |
-| **[Remote Desktop MCP](https://github.com/ThinkerQAQ/remote-desktop-mcp)** | Connects AI assistants with local files, terminal, and development workflows. | MCP, Node.js |
-| **[Lightroom Classic HDR Tools](https://github.com/ThinkerQAQ/lightroom-plugin)** | Local plug-ins for bracketed HDR merging and source-photo review. | Lua, C# |
+| **[Inkerio](https://github.com/ThinkerQAQ/inkerio)** | Bilingual blog engine with independent content, full-text search, RSS, and GitHub Pages deployment. | Astro, TypeScript |
+| **[SyndiRelay](https://github.com/ThinkerQAQ/syndirelay)** | Standalone Markdown compilation and cross-platform publishing toolkit with a local console, browser extension, and MCP integration. Formerly BlogCTL. | Go, TypeScript, MCP |
+| **[VidOtter](https://github.com/ThinkerQAQ/vidotter)** | Browser-integrated media downloader with a local bridge, task management, and optional subtitle processing. | Go, Browser Extension |
+| **[Reverfolio](https://github.com/ThinkerQAQ/reverfolio)** | Tracks open-source and content impact through GitHub, website and platform metrics, trends, and reviewed citation evidence. | Go, SQLite, MCP |
+| **[Remote Desktop MCP](https://github.com/ThinkerQAQ/remote-desktop-mcp)** | Connects AI assistants to local files and terminal workflows through Desktop Commander and a persistent MCP tunnel. | Node.js, MCP |
+| **[Remote Browser MCP](https://github.com/ThinkerQAQ/remote-browser-mcp)** | Guarded AI access to existing Edge/Chrome sessions through Chrome DevTools MCP and a persistent bridge. | Node.js, MCP, CDP |
+| **[Wardrobe](https://github.com/ThinkerQAQ/wardrobe)** | Local-first clothing inventory and AI-assisted outfit planning with a Web UI and browser side panel. | Go, SQLite, MCP |
+| **[Lightroom Classic HDR Tools](https://github.com/ThinkerQAQ/lightroom-plugin)** | Windows plug-ins for bracketed HDR merging and source-photo review in Lightroom Classic. | Lua, C# |
+| **[DevEnvironment](https://github.com/ThinkerQAQ/DevEnvironment)** | Reusable Docker development environments with shared toolchains and code-intelligence tools. | Docker, Go, Node.js |
 
-Explore the full [project portfolio](https://thinkerqaq.com/en/projects/), or try the [Inkerio Content Template](https://github.com/ThinkerQAQ/inkerio-content-template) to build your own site.
+**Archived experiment:** [DevTool](https://github.com/ThinkerQAQ/DevTool) — a configuration-driven development control plane for humans, AI agents, and CI. The larger product goal was not completed; the repository preserves the implementation and retrospective.
+
+Explore the full [project portfolio](https://thinkerqaq.com/en/projects/), or start your own blog with the [Inkerio Content Template](https://github.com/ThinkerQAQ/inkerio-content-template).
 
 ## Writing
 
